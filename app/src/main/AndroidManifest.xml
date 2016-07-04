@@ -11,14 +11,10 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
+                android:screenOrientation="portrait"
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CategoryActivity"/>
-        <activity android:name=".SubCategoryActivity"/>
-        <activity android:name=".RecipesActivity"/>
-        <activity android:name=".RecipeActivity"/>
     </application>
 
 </manifest>
