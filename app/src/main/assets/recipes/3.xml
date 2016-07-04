@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook>
+  
+   <category title="Сладкая выпечка"
+             link="31.xml"
+             image="i2-sweet pastries.jpg"/>
+    
+  <category title="Несладкая выпечка"
+            link="32.xml"
+            image="i2-savory pastries.jpg"/>
+
+   
+</cookbook>

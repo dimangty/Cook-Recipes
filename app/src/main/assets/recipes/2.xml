@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook>
+  
+   <category title="Мясо"
+             link="21.xml"
+             image="i2-meat.jpg"/>
+    
+  <category title="Птица"
+            link="22.xml" 
+            image="i2-bird.jpg"/>
+
+   <category title="Рыба"
+             link="23.xml" 
+             image="i2-fish.jpg"/>
+
+   <category title="Овощи"
+             link="24.xml" 
+             image="i2_vegies.jpg"/>
+
+   <category title="Рис и паста"
+             link="25.xml" 
+             image="i2-rice and pasta.jpg"/>
+
+</cookbook>

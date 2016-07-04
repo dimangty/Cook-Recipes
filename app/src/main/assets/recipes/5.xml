@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook>
+  
+   <category title="Бутерброды"
+             link="51.xml"
+             image="i2-sandwiches.jpg"/>
+    
+  <category title="Закуски мясные"
+            link="52.xml"
+            image="i2-meat_snack.jpg"/>
+
+   <category title="Закуски овощные"
+             link="53.xml"
+             image="i2_vegetable_snacks.jpg"/>
+
+   <category title="Закуски рыбные"
+             link="54.xml" 
+             image="i2-fish_snacks.jpg"/>
+
+ 
+</cookbook>

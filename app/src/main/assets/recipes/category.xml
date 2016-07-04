@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cookbook>
+  
+  
+    
+    <category title="Вторые блюда"
+    link="2.xml"
+    image="i-seconds.jpg"
+    hasSubcategory="1"/>
+    
+    <category title="Выпечка"
+    link="3.xml"
+    image="i-bakery-main.jpg"
+    hasSubcategory="1"/>
+    
+    <category title="Салаты и закуски"
+    link="5.xml"
+    image="i-salads and snacks.jpg"
+    hasSubcategory="1"/>
+    
+    <category title="Супы"
+    link="7.xml"
+    image="i-soups.jpg"
+    hasSubcategory="0"/>
+    
+     
+    <category title="Соусы и дипы"
+    link="6.xml"
+    image="i-Sauces and dips.jpg"
+    hasSubcategory="0"/>
+    
+    <category title="Десерты"
+    link="4.xml"
+    image="i-desserts.jpg"
+    hasSubcategory="0"/>
+	
+
+
+</cookbook>
